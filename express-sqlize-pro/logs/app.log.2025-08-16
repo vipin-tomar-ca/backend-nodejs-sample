@@ -1,0 +1,87 @@
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-16T23:53:26.124Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-16T23:53:26.132Z"}
+{"level":"info","message":"🚀 Server is running on port 3000","service":"deel-backend","timestamp":"2025-08-16T23:53:26.136Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-16T23:53:26.136Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:3000/","service":"deel-backend","timestamp":"2025-08-16T23:53:26.136Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:3000/api/v1/health","service":"deel-backend","timestamp":"2025-08-16T23:53:26.137Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-16T23:59:48.572Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T00:09:15.224Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T00:09:15.227Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T00:09:15.228Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T00:09:15.228Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T00:09:15.228Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T00:09:15.228Z"}
+{"level":"info","message":"🏗️ IoC Container: 0 services registered","service":"deel-backend","timestamp":"2025-08-17T00:09:15.229Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T00:09:15.229Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T00:09:15.229Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T00:19:59.314Z"}
+{"level":"info","message":"Initialized 21 exchange rates","service":"deel-backend","timestamp":"2025-08-17T00:32:36.164Z"}
+{"level":"info","message":"Initialized compliance rules for 10 jurisdictions","service":"deel-backend","timestamp":"2025-08-17T00:32:36.165Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T00:32:36.173Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T00:32:36.175Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"🏗️ IoC Container: 0 services registered","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T00:32:36.176Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T01:21:50.025Z"}
+{"level":"info","message":"Initialized 21 exchange rates","service":"deel-backend","timestamp":"2025-08-17T01:22:54.313Z"}
+{"level":"info","message":"Initialized compliance rules for 10 jurisdictions","service":"deel-backend","timestamp":"2025-08-17T01:22:54.314Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T01:22:54.321Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T01:22:54.323Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T01:22:54.324Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T01:22:54.325Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T01:22:54.325Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T01:22:54.325Z"}
+{"level":"info","message":"🏗️ IoC Container: 0 services registered","service":"deel-backend","timestamp":"2025-08-17T01:22:54.325Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T01:22:54.325Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T01:22:54.325Z"}
+{"level":"info","message":"GET / 200 2ms","service":"deel-backend","timestamp":"2025-08-17T01:23:00.628Z"}
+{"level":"info","message":"GET /apple-touch-icon-precomposed.png 200 1ms","service":"deel-backend","timestamp":"2025-08-17T01:23:01.296Z"}
+{"level":"info","message":"GET /apple-touch-icon.png 200 1ms","service":"deel-backend","timestamp":"2025-08-17T01:23:01.875Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T01:23:10.044Z"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T01:23:10.046Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T01:33:42.705Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T01:33:42.716Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"🏗️ IoC Container: 9 services registered","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T01:33:42.718Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T01:35:12.236Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T01:35:12.460Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T01:35:12.486Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T01:35:12.487Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T01:35:12.488Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T01:35:12.488Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T01:35:12.488Z"}
+{"level":"info","message":"🏗️ IoC Container: 9 services registered","service":"deel-backend","timestamp":"2025-08-17T01:35:12.488Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T01:35:12.488Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T01:35:12.488Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T01:35:12.491Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T01:36:09.576Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T01:36:09.585Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"🏗️ IoC Container: 9 services registered","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T01:36:09.587Z"}
+{"level":"info","message":"GET /api/v1/health 200 2ms","service":"deel-backend","timestamp":"2025-08-17T01:36:15.882Z"}
+{"level":"info","message":"GET /api/v1/global-payments/health 401 1ms","service":"deel-backend","timestamp":"2025-08-17T01:36:21.079Z"}
+{"level":"info","message":"GET /api/v1/global-payments/health 404 7ms","service":"deel-backend","timestamp":"2025-08-17T01:36:24.769Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"deel-backend","timestamp":"2025-08-17T01:36:32.054Z"}
+{"level":"info","message":"Database connection has been established successfully.","service":"deel-backend","timestamp":"2025-08-17T01:36:32.288Z"}
+{"level":"info","message":"Database synchronized.","service":"deel-backend","timestamp":"2025-08-17T01:36:32.297Z"}
+{"level":"info","message":"🚀 Server is running on port 9900","service":"deel-backend","timestamp":"2025-08-17T01:36:32.298Z"}
+{"level":"info","message":"📊 Environment: development","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
+{"level":"info","message":"🔗 Health check: http://localhost:9900/","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
+{"level":"info","message":"📚 API Documentation: http://localhost:9900/api/v1/health","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
+{"level":"info","message":"🏗️ IoC Container: 9 services registered","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
+{"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
+{"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
