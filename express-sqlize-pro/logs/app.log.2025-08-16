@@ -85,3 +85,4 @@
 {"level":"info","message":"🏗️ IoC Container: 9 services registered","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
 {"level":"info","message":"🎯 Business Rule Engine: Ready for dynamic rule injection","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
 {"level":"info","message":"🌍 Global Payroll: Multi-currency and compliance ready","service":"deel-backend","timestamp":"2025-08-17T01:36:32.299Z"}
+{"level":"info","message":"GET / 200 3ms","service":"deel-backend","timestamp":"2025-08-17T03:17:11.390Z"}

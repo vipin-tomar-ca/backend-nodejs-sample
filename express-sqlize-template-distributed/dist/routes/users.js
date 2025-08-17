@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const container_1 = require("../container");
+const auth_1 = require("../middleware/auth");
+const validation_1 = require("../middleware/validation");
+const rateLimit_1 = require("../middleware/rateLimit");
+const router = (0, express_1.Router)();
+const userController = container_1.container.get('UserController');
+router.use(rateLimit_1.rateLimitMiddleware);
+router.post('/', validation_1.validationMiddleware.validateUserCreation, userController.createUser.bind(userController));
+router.use(auth_1.authMiddleware);
+router.get('/', userController.getUsers.bind(userController));
+router.get('/me', userController.getCurrentUser.bind(userController));
+router.put('/me', userController.updateCurrentUser.bind(userController));
+router.get('/:id', validation_1.validationMiddleware.validateUserId, userController.getUserById.bind(userController));
+router.put('/:id', validation_1.validationMiddleware.validateUserId, validation_1.validationMiddleware.validateUserUpdate, userController.updateUser.bind(userController));
+router.delete('/:id', validation_1.validationMiddleware.validateUserId, userController.deleteUser.bind(userController));
+exports.default = router;
+//# sourceMappingURL=users.js.map
